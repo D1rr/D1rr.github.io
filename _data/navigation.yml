@@ -1,0 +1,14 @@
+- title: 关于
+  url: /about/
+- title: 年鉴
+  url: /years/
+- title: 归档
+  url: /categories/
+- title: 标签
+  url: /tags/
+- title: 更多
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: 文档
+      url: /docs/
