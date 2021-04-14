@@ -2,6 +2,60 @@
 ---
 
 @import 
-  "hamilton/skins/{{ site.skin | default: 'daylight' }}",
+  "hamilton/skins/{{ site.skin | default: 'cu' }}",
   "hamilton/skin"
 ;
+
+.post-list{
+  background-color:white;
+  opacity: 0.8;
+}
+
+.site-sidebar{
+  background-color:white;
+  opacity: 0.8;
+}
+
+.post-content{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 25px;
+  background-color:white;
+  opacity: 0.8;
+}
+
+.e-content{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+
+.post-header{
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+
+.post-footer{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+.site-footer{
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+.site-header{
+  opacity: 0.8;
+}
