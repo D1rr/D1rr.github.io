@@ -11,10 +11,6 @@
   opacity: 0.8;
 }
 
-.site-sidebar{
-  background-color:white;
-  opacity: 0.8;
-}
 
 .post-content{
   padding-top: 10px;
@@ -57,5 +53,36 @@
   opacity: 0.8;
 }
 .site-header{
+  opacity: 0.8;
+}
+
+.pager-edge{
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+.current-page{
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+
+.post-list{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 5px;
+  background-color:white;
+  opacity: 0.8;
+}
+
+.contact-list{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-radius: 5px;
+  background-color:white;
   opacity: 0.8;
 }
